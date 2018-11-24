@@ -17,8 +17,8 @@
     "fallback",
     "spa"
   ],
-  "author": "langxiongli",
-  "license": "MIT",
+  "author": "lilangxiong",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/lilangxiong/connect-history-api-fallback-nfd/issues"
   },
