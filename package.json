@@ -1,0 +1,26 @@
+{
+  "name": "connect-history-api-fallback-nfd",
+  "version": "0.0.1",
+  "description": "Provides a fallback for non-existing directories so that the HTML 5 history API can be used.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "eslint lib/index.js test/index_test.js && nodeunit test/index_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilangxiong/connect-history-api-fallback-nfd.git"
+  },
+  "keywords": [
+    "connect",
+    "html5",
+    "history-api",
+    "fallback",
+    "spa"
+  ],
+  "author": "langxiongli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lilangxiong/connect-history-api-fallback-nfd/issues"
+  },
+  "homepage": "https://github.com/lilangxiong/connect-history-api-fallback-nfd#readme"
+}
