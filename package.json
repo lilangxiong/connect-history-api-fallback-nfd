@@ -1,6 +1,6 @@
 {
   "name": "connect-history-api-fallback-nfd",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Provides a fallback for non-existing directories so that the HTML 5 history API can be used.",
   "main": "lib/index.js",
   "scripts": {
